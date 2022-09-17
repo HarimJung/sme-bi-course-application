@@ -18,7 +18,7 @@
 
 #### Learning Objective
 
-* Using FIXED LOD per each dimension of "HDI","Region"." and "Income"
+* Using FIXED LOD per each dimension of "HDI", "Region" and "Income"
 * Applying Measure Values and Measure Name to draw charts
 * Developing advanced parameter to switch the Measure Values 
 * Using True False LOD to set the Shapes in the chart
@@ -26,19 +26,26 @@
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+*Following the Chapter 1 practices files with 5 charts applications, users and students can learn to cover the FIXED LOD in various situation to use with parameter options to draw multiple interactive charts and dashboard actions per measures and dimensions. These practices allow students to expand the capacity of chart development beyond measure and dimension in general* 
 
 #### Steps to be executed by the student (max 6)
 
-*Each bulleted instruction is a complete sentence that describes a specific task.*
+*Chapter 1.1-3
 
-- Step 1
-- Step 2
-- Step 3
-- ...
+- Using a Parameter to "SWITCH" the measures. (ex. SWITCH Measure, make another one using your own parameter)
+- Using "Year TF" to specify the year wish Shape (ex. Diamond)
+- Using various types of the line graph
+- Develop your own LOD to show only year speficied countryname displaying logic
+
+*Chapter 1.5
+
+- Using measure switchable parameter to show measure value in the text
+- Using Countryname selecting parameter to choose your country
+- UMeasure/1000 value displaying
+
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+*How to display both AVERAGE Values with selected country's value of two different measures using Measure parameters? *
 
 #### End goal:
 
