@@ -18,7 +18,11 @@
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+* Using FIXED LOD per each dimension of "HDI","Region"." and "Income"
+* Applying Measure Values and Measure Name to draw charts
+* Developing advanced parameter to switch the Measure Values 
+* Using True False LOD to set the Shapes in the chart
+
 
 #### Context
 
