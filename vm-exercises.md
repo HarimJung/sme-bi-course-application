@@ -39,8 +39,8 @@
 *How to display both AVERAGE Values with selected country's value of two different measures using Measure parameters? *
 
 #### End goal:
+<img width="945" alt="스크린샷 2022-09-17 오후 8 06 53" src="https://user-images.githubusercontent.com/48680125/190880211-5b21a435-6caa-474d-b7a7-2cecf8d81a8e.png">
 
-*Add an image of the final visualization here.*
 
 
 ## 2nd VM Exercise
@@ -72,3 +72,4 @@
 
 *Add an image of the final visualization here.*
 
+<img width="907" alt="스크린샷 2022-09-17 오후 8 05 07" src="https://user-images.githubusercontent.com/48680125/190880187-e62b7918-59dd-477a-a9bd-7939515cb31d.png">
