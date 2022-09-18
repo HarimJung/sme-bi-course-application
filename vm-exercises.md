@@ -55,7 +55,9 @@
 
 *Following Chapter2, students can learn how to develop the advanced LOD using SIN, COS, and RADIANS functions to put calculated X and Y positions using their datasets. Also, practice courses let the students level up the Voronoi chart using with D3 template to manipulate the dataset into an art space chart to apply in a tableau as well.*
 
-#### Steps to be executed by the student (max 6)
+#### Steps to be executed by the student 
+
+*Chapter 2
 
 - Radius Position
 - Circle Radius
