@@ -7,15 +7,6 @@
 
 ## 1st VM Exercise
 
-#### Dataset
-
-- [ ] Add datasets used to the `datasets/` folder
-
-#### Files
-
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix`
-
 #### Learning Objective
 
 * Using FIXED LOD per each dimension of "HDI", "Region" and "Income"
@@ -28,7 +19,7 @@
 
 *Following the Chapter 1 practices files with 5 charts applications, users and students can learn to cover the FIXED LOD in various situation to use with parameter options to draw multiple interactive charts and dashboard actions per measures and dimensions. These practices allow students to expand the capacity of chart development beyond measure and dimension in general* 
 
-#### Steps to be executed by the student (max 6)
+#### Steps to be executed by the student
 
 *Chapter 1.1-3
 
@@ -51,36 +42,29 @@
 
 *Add an image of the final visualization here.*
 
+
 ## 2nd VM Exercise
-
-#### Dataset
-
-- [ ] Add datasets used to the `datasets/` folder
-
-#### Files
-
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-2-intial.twbx` or `ex-2-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-2-sol.twbx` or `ex-2-sol.pbix`
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+* Devloping the Radius calculated charts with X and Y positioning
+* Transform the radial bar chart per preference
+* Adding the Radial chart layers per preference
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+*Following Chapter2, students can learn how to develop the advanced LOD using SIN, COS, and RADIANS functions to put calculated X and Y positions using their datasets. Also, practice courses let the students level up the Voronoi chart using with D3 template to manipulate the dataset into an art space chart to apply in a tableau as well.*
 
 #### Steps to be executed by the student (max 6)
 
-*Each bulleted instruction is a complete sentence that describes a specific task.*
-
-- Step 1
-- Step 2
-- Step 3
-- ...
+- Radius Position
+- Circle Radius
+- Angle using 330 degree
+- X and Y 
+- Drag X and Y and set them as Dimension
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+*If the client wants to apply more years in the chart to show sequential dataset flow from 1990 to 2020, how to apply this requirement in the chart and LOD. and also, if the client wants to reduce the size of the inner circle, how to solve the request using the LOD with practices?  *
 
 #### End goal:
 
