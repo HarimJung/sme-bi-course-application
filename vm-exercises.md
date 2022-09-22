@@ -12,7 +12,6 @@
 * Using FIXED LOD per each dimension of "HDI", "Region" and "Income"
 * Applying Measure Values and Measure Name to draw charts
 * Developing advanced parameter to switch the Measure Values 
-* Using True False LOD to set the Shapes in the chart
 
 
 #### Context
@@ -33,7 +32,7 @@
 *How to display both AVERAGE Values with selected country's value of two different measures using Measure parameters? *
 
 #### End goal:
-<img width="928" alt="스크린샷 2022-09-22 오전 2 27 59" src="https://user-images.githubusercontent.com/48680125/191673983-4fa6350d-0afb-4cd1-974c-32ad6304b064.png">
+<img width="600" alt="스크린샷 2022-09-22 오전 2 27 59" src="https://user-images.githubusercontent.com/48680125/191673983-4fa6350d-0afb-4cd1-974c-32ad6304b064.png">
 
 
 
