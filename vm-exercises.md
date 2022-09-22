@@ -25,21 +25,17 @@
 
 - Using a Parameter to "SWITCH" the measures. (ex. SWITCH Measure, make another one using your own parameter)
 - Using "Year TF" to specify the year wish Shape (ex. Diamond)
-- Using various types of the line graph
+- Displaying the multiple measures in the same axis without dual axis
 - Develop your own LOD to show only year speficied countryname displaying logic
-
-*Chapter 1.5
-
-- Using measure switchable parameter to show measure value in the text
-- Using Countryname selecting parameter to choose your country
-- UMeasure/1000 value displaying
 
 
 #### Exercise question:
 *How to display both AVERAGE Values with selected country's value of two different measures using Measure parameters? *
 
 #### End goal:
-<img width="645" alt="스크린샷 2022-09-17 오후 8 06 53" src="https://user-images.githubusercontent.com/48680125/190880211-5b21a435-6caa-474d-b7a7-2cecf8d81a8e.png">
+<img width="928" alt="스크린샷 2022-09-22 오전 2 27 59" src="https://user-images.githubusercontent.com/48680125/191673983-4fa6350d-0afb-4cd1-974c-32ad6304b064.png">
+
+
 
 
 
