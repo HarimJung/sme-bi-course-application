@@ -16,11 +16,11 @@
 
 #### Context
 
-*Following the Chapter 1 practices files with 5 charts applications, users and students can learn to cover the FIXED LOD in various situation to use with parameter options to draw multiple interactive charts and dashboard actions per measures and dimensions. These practices allow students to expand the capacity of chart development beyond measure and dimension in general* 
+*Following the Chapter 1 practices files with 2 charts applications, users and students can learn to cover the FIXED LOD in various situation to use with parameter options to draw multiple interactive charts and dashboard actions per measures and dimensions. These practices allow students to expand the capacity of chart development beyond measure and dimension in general* 
 
 #### Steps to be executed by the student
 
-*Chapter 1.1-3
+*Chapter 1.1
 
 - Using a Parameter to "SWITCH" the measures. (ex. SWITCH Measure, make another one using your own parameter)
 - Using "Year TF" to specify the year wish Shape (ex. Diamond)
